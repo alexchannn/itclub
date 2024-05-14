@@ -1,0 +1,5 @@
+#clubText {
+   display: inline-block;
+   min-width: 12ch;
+   white-space: nowrap;
+}
